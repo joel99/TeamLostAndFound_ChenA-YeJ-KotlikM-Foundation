@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title> Foundation Demo: Team LostAndFound </title>
+    <link rel = "stylesheet" href = "css/foundation.css" >
+    <link rel = "stylesheet" href = "css/app.css" >
+  </head>
+  <body>
+    <div class = "row">
+      It All Starts With A Strong Foundation
+    </div> 
+
+  </body>
+
+</html>
